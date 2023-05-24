@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculadorap03Java</string>
+    <string name="Usuario">Alex</string>
+    <string name="Contraseña">123456</string>
+    <string name="nombreUsuario">Jesus Peinado</string>
+    <string name="num1">Numero 1</string>
+    <string name="num2">Numero 2</string>
+    <string name="res">Resultado</string>
+</resources>
